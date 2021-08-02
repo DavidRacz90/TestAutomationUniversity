@@ -1,0 +1,23 @@
+{
+  "name": "TestAutomationUniversity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidRacz90/TestAutomationUniversity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidRacz90/TestAutomationUniversity/issues"
+  },
+  "homepage": "https://github.com/DavidRacz90/TestAutomationUniversity#readme",
+  "dependencies": {
+    "mocha": "^9.0.3"
+  }
+}
